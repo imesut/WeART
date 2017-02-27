@@ -1,0 +1,5 @@
+NETWORK:
+
+192.168.2.243/camera.php
+192.168.2.243/eser.php
+192.168.2.243/eser_static.php

@@ -1,0 +1,158 @@
+{
+  "1027":{
+    "name": "Violin and Candlestick",
+    "artist": "Georges Braque",
+    "photo": "img/Violin_and_Candlestick_Georges_Braque_Cubizm.jpg"
+  },
+  "1026":{
+    "name": "Portrait of Pablo Picasso",
+    "artist": "Juan Gris",
+    "photo": "img/Portrait_of_Pablo_Picasso_Juan_Gris_Cubizm.jpg"
+  },
+  "1025":{
+    "name": "Nude Descending a Staircase",
+    "artist": "Marcel Duchamp",
+    "photo": "img/Nude_Descending_a_Staircase_Duchamp_-_Cubizm.jpg"
+  },
+  "1024":{
+    "name": "Boulevard des Capucines",
+    "artist": "Claude Monet",
+    "photo": "img/b3.jpg"
+  },
+  "1023":{
+    "name": "Paris Street, Rainy Day",
+    "artist": "Gustave Caillebotte",
+    "photo": "img/Paris_Street_Rainy_Day_Gustave_Caillebotte_Impresyonizm.jpg"
+  },
+  "1022":{
+    "name": "Olympia",
+    "artist": "Claude Monet",
+    "photo": "img/Olympia_Edouard_Manet_Impresyonizm.jpg"
+  },
+  "1021":{
+    "name": "The Elephant Celebes",
+    "artist": "Max Ernst",
+    "photo": "img/the-elephant-Celebes_Max_Ernst_surrealizm.jpg"
+  },
+  "1020":{
+    "name": "The Son of Man",
+    "artist": "Rene Magritte",
+    "photo": "img/The_son_of_man_Rene_Magritte_Surrealizm.jpg"
+  },
+  "1019":{
+    "name": "Golconde",
+    "artist": "Rene Magritte",
+    "photo": "img/Golconde_Rene_Magritte_Surrealizm.jpg"
+  },
+  "1018":{
+    "name": "Summer, Ruth and Boaz",
+    "artist": "Nicolas Poussin",
+    "photo": "img/Summer_Ruth_and_Boaz_Nicolas_Poussin_Classizm.jpg"
+  },
+  "1017":{
+    "name": "Oath of the Horatii",
+    "artist": "Louis David",
+    "photo": "img/Jacques_Louis_David_Oath_of_the_Horatii_1784_Classizm.jpg"
+  },
+  "1016":{
+    "name": "Ascanius Shooting the Stag  of Style",
+    "artist": "Claude Lorrain",
+    "photo": "img/a.jpg"
+  },
+  "1015":{
+    "name": "The Face Of War",
+    "artist": "Salvador Dali",
+    "photo": "img/The_Face_of_War_Salvador_Dali.jpg"
+  },
+  "1014":{
+    "name": "Swans Reflecting Elephants",
+    "artist": "Salvador Dali",
+    "photo": "img/swans_reflecting_elephants_Salvador_Dali.jpg"
+  },
+  "1013":{
+    "name": "Great Masturbator",
+    "artist": "Salvador Dali",
+    "photo": "img/Great_Masturbator_Salvador_Dali.jpg"
+  },
+  "1012":{
+    "name": "Self Portrait with Bandaged Ear",
+    "artist": "Vincent Van Gogh",
+    "photo": "img/Self_Portrait_With_Bandaged_Ear_Van_Gogh.jpg"
+  },
+  "1011":{
+    "name": "Cafe Terrace at Night",
+    "artist": "Vincent Van Gogh",
+    "photo": "img/Cafe_Terrace_At_Night_Van_Gogh.jpg"
+  },
+  "1010":{
+    "name": "Bedroom in Arles",
+    "artist": "Vincent Van Gogh",
+    "photo": "img/b.jpg"
+  },
+  "1009":{
+    "name": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "photo": "img/Les_Demoiselles_d_Avignon_Picasso.jpg"
+  },
+  "1008":{
+    "name": "The Weeping Woman",
+    "artist": "Pablo Picasso",
+    "photo": "img/The_Weeping_Woman_Picasso.jpg"
+  },
+  "1007":{
+    "name": "Nude Green Leaves and Bust",
+    "artist": "Pablo Picasso",
+    "photo": "img/Nude_Green_Leaves_and_Bust_Picasso.jpg"
+  },
+  "1006":{
+    "name": "The Virgin and Child with St Anne",
+    "artist": "Leonardo da Vinci",
+    "photo": "img/The_Virgin_and_Child_with_St_Anne_Da_Vinci.jpg"
+  },
+  "1005":{
+    "name": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "photo": "img/Son_Aksam_Yemegi_Da_Vinci.jpg"
+  },
+  "1004":{
+    "name": "Lady with an Ermine",
+    "artist": "Leonardo da Vinci",
+    "photo": "img/Lady_with_an_Ermine_Da_Vinci.jpg"
+  },
+  "1003":{
+    "name": "Persistance of Memory",
+    "artist": "Persistance of Memory",
+    "photo": "img/Persistance_Of_Memory_Salvador_Dali.jpg",
+    "similars" : [1013, 1014, 1015, 1019, 1020, 1021],
+    "physicalDescription": "The night sky depicted by van Gogh in the Starry Night painting is brimming with whirling clouds, shining stars, and a bright crescent moon. The setting is one that viewers can relate to and van Gogh´s swirling sky directs the viewer´s eye around the painting, with spacing between the stars and the curving contours creating a dot-to-dot effect. These internal elements ensure fluidity and such contours were important for the artist even though they were becoming less significant for other Impressionists.",
+    "locationList": "<iframe src='https://www.google.com/maps/d/u/0/embed?mid=1gJ7nl-f3J6sO69rQL6y4vXmpt-k' width='80%' height='480'></iframe>",
+    "voice": "mp3/Edited_Salvador_Dali's_The_Persistence_of_Memory.mp3"
+  },
+  "1002":{
+    "name": "Starry Night",
+    "artist": "Vincent Van Gogh",
+    "photo": "img/Starry_Night_-_Van_Gogh.jpg",
+    "similars" : [1010, 1011, 1012, 1022, 1023, 1024],
+    "physicalDescription": "The night sky depicted by van Gogh in the Starry Night painting is brimming with whirling clouds, shining stars, and a bright crescent moon. The setting is one that viewers can relate to and van Gogh´s swirling sky directs the viewer´s eye around the painting, with spacing between the stars and the curving contours creating a dot-to-dot effect. These internal elements ensure fluidity and such contours were important for the artist even though they were becoming less significant for other Impressionists.",
+    "locationList": "<iframe src='https://www.google.com/maps/d/u/0/embed?mid=1gJ7nl-f3J6sO69rQL6y4vXmpt-k' width='80%' height='480'></iframe>",
+    "voice": "mp3/Edited_The_unexpected_math_behind_Van_Gogh's_Starry_Night_Natalya_St_Clair.mp3"
+  },
+  "1001":{
+    "name": "Blue Nude",
+    "artist": "Pablo Picasso",
+    "photo": "img/b2.jpg",
+    "similars" : [1007, 1008, 1009, 1025, 1026, 1027],
+    "physicalDescription": "The seated model, seated with her back to the viewer, postured as it often adopted in life classes. It was depicted from the high perspective, looking down upon the figure. There are no background of the figure. Here this carriage serves to avoid the onlooker from the scene, characterizing him or her as an outcast, arranged past the edges of remote and colorful universe of Gauguin. Picasso's reception of a back perspective works comparably to pass on a feeling of disengagement and rejection.",
+    "locationList": "<iframe src='https://www.google.com/maps/d/u/0/embed?mid=1hJcyXkuhKhsDOj_DNKGrENiYrfI' width='80%' height='480'></iframe>",
+    "voice": "mp3/Blue_Nude.mp3"
+  },
+  "1000":{
+    "name": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "photo": "img/Mona_Lisa_Da_Vinci.jpg",
+    "similars" : [1004, 1005, 1006, 1016, 1017, 1018],
+    "physicalDescription": "The portrait shows the subject sitting upright and sideways in a chair, with her face and chest turned slightly towards the viewer: a posture derived from the 'pyramid' image used to depict a sitting Madonna. Her left arm sits comfortably on the armrest of the chair and is clasped by the hand of her right arm which crosses her front. The slightly protective position of her arms, as well as the armrest, creates a sense of distance between sitter and spectator.<br>The background landscape behind the sitter was created using aerial perspective, with its smoky blues and no clearly defined vanishing point. It gives the composition significant depth, although its details reveal a clear imbalance between the (higher) rocky horizon to the right, compared to the (lower) flatlands stretching away on the left. This imbalance adds to the slightly surreal atmosphere of the picture.",
+    "locationList": "<iframe src='https://www.google.com/maps/d/embed?mid=1yyG8_WYf2MBb8eYULbGUIj4lbtg' width='80%' height='480'></iframe>",
+    "voice": "mp3/Edited_Mona_Lisa-Why_so_Famous.mp3"
+  }
+}

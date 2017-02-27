@@ -1,0 +1,22 @@
+{
+  "1000":{
+    "name": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "photo": "photo_url",
+    "similars" : [1001, 1002],
+    "physicalDescription": "Physical_description_comes_here",
+    "artfulDescription": "Artful_description_comes_here",
+    "locationList": "iframe linki buraya gelecek",
+    "voice": "mp3_url"
+  },
+  "1001":{
+    "name": "1001",
+    "artist": "binbir",
+    "photo": "photo_url"
+  },
+  "1002":{
+    "name": "1002",
+    "artist": "biniki",
+    "photo": "photo_url"
+  }
+}

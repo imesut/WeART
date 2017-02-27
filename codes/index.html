@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <link rel="apple-touch-icon" href="/custom_icon.png"/>
+    <link rel="apple-touch-startup-image" href="/startup.png">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body{
+            font-family: sans-serif;
+        }
+        .inputfile {
+            width: 0.1px;
+            height: 0.1px;
+            opacity: 0;
+            overflow: hidden;
+            position: absolute;
+            z-index: -1;
+        }
+        .inputfile + label {
+            font-size: 1.25em;
+            font-weight: 700;
+            color: white;
+            background-color: red;
+            display: inline-block;
+        }
+        
+        .inputfile + label {
+            cursor: pointer; /* "hand" cursor */
+        }
+    
+    </style>
+</head>
+<body>
+    <form action="photo.php" id="form1" name="form1" enctype="multipart/form-data" method="post">
+        <input type="file" id="fileToUpload"  name="fileToUpload" accept="image/*" capture="camera" class="inputfile">
+        <label for="fileToUpload">Take Photo</label>
+        <button name="submit" type="submit" value="Save">Okay!</button>
+    </form>
+    
+    <!--input type="file" name="file" id="file" class="inputfile" accept="image/*" capture="camera" />
+    <label for="file">Take Photo</label-->
+</body>
+</html>
